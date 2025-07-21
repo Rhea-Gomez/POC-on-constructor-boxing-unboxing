@@ -1,0 +1,14 @@
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\bin\Debug\net8.0\BoxingUnBoxingDemo.exe
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\bin\Debug\net8.0\BoxingUnBoxingDemo.deps.json
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\bin\Debug\net8.0\BoxingUnBoxingDemo.runtimeconfig.json
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\bin\Debug\net8.0\BoxingUnBoxingDemo.dll
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\bin\Debug\net8.0\BoxingUnBoxingDemo.pdb
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\obj\Debug\net8.0\BoxingUnBoxingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\obj\Debug\net8.0\BoxingUnBoxingDemo.AssemblyInfoInputs.cache
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\obj\Debug\net8.0\BoxingUnBoxingDemo.AssemblyInfo.cs
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\obj\Debug\net8.0\BoxingUnBoxingDemo.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\obj\Debug\net8.0\BoxingUnBoxingDemo.dll
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\obj\Debug\net8.0\refint\BoxingUnBoxingDemo.dll
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\obj\Debug\net8.0\BoxingUnBoxingDemo.pdb
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\obj\Debug\net8.0\BoxingUnBoxingDemo.genruntimeconfig.cache
+D:\Training\Assignments\BoxingUnBoxingDemo\BoxingUnBoxingDemo\obj\Debug\net8.0\ref\BoxingUnBoxingDemo.dll
